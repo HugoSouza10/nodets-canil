@@ -1,0 +1,11 @@
+yarn add express mustache-express dotenv
+
+yarn add --save-dev @types/express @types/mustache-express @types/node
+
+
+tem que ter essas dependencias globais para funcionar.
+nodemon
+typescript
+ts-node
+
+yarn add -g nodemom typescript ts-node
